@@ -1,7 +1,7 @@
-public void handle（）{
+﻿public void handle（）{
 	
 	main
-	syso
+	sy1so
 	
 }
 
